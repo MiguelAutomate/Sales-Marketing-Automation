@@ -19,7 +19,7 @@ An AI-powered automation suite designed to streamline sales and marketing operat
 ## Installation
 1. Clone the repo:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/AI-Sales-Automation.git
+   git clone https://github.com/MiguelAutomate/AI-Sales-Automation.git
    cd AI-Sales-Automation
 Install dependencies:
 sh
